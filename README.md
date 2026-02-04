@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Atharva currently studying in mit manipal.
+
+I am learning dsa and part of taskphase in project manas ai and research.
+
+Here i am gonna share my project,learning,experiments and things i am working on. 
 <!--
 **karma-AY/karma-AY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
